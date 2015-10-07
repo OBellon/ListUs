@@ -1,2 +1,3 @@
-# Requirements
-Short description of our app functionality
+# ListUs
+The app that will organize your live. 
+And not only yours.
