@@ -1,9 +1,3 @@
-# To install
-```bash
-	npm install
-```
+# ListUs
+Personal creation
 
-# To run
-```bash
-	npm start
-```
