@@ -1,0 +1,44 @@
+.main {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	flex-flow: row wrap;
+}
+
+.header {
+	background-color: cyan;
+	width: 100%;
+	height: 150px;
+	text-align: center;
+}
+
+.nav {
+	background-color: #48D4B8;
+	width: 20%;
+	height: 800px;
+	float: left;
+	display: none;
+}
+
+.article {
+	background-color: hotpink;
+	width: 100%;
+	height: 800px;
+	float: left;
+}
+
+.footer {
+	background-color: #E06A1F;
+	width: 100%;
+	height: 150px;
+	clear: both;
+}
+
+@media all and (min-width: 700px){
+	.nav {
+		display: block;
+	}
+	.article {
+		width: 80%;
+	}
+}
