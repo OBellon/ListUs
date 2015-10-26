@@ -1,3 +1,3 @@
-# ListUs
-Personal creation
-
+#_ListUs_
+_'The app that will organize your live.  
+And not only yours.'
